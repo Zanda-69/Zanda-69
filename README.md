@@ -1,6 +1,6 @@
 Ola, me chamo Rafael
 Sou um aluno da megamente, uma escola de desenvolvimento de games,busco em aprender mais sobre a area dos games e trabalhar com ela.
-Aprendi a desenvolver um game 2D no construct e um jogo 3D na unreal, atualmente estou desenvolvendo um jogo na unity.
+Aprendi a desenvolver um game 2D no construct e um jogo 3D na unreal, atualmente estou desenvolvendo um jogo na unity
 
 
 
